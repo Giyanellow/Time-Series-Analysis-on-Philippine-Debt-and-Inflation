@@ -1,12 +1,16 @@
 ﻿# Time-Series Analysis on the Philippines' Inflation Rate (1960-2021)
 
 ## Table of Contents
-- [Introduction / Problem Statement](#introduction--problem-statement)
+- [IMPORTANT](#important)
+- [Introduction](#introduction)
 - [Gathered Data / Dataset](#gathered-data--dataset)
 - [Tools and Libraries](#tools-and-libraries)
 - [Installation](#installation)
 - [Conclusion](#conclusion)
 - [License](#license)
+
+## IMPORTANT
+Do take into account that this Analysis is not a direct and accurate Analysis on the Philippines' economic state. Moreover, predictions in this analysis is not to be considered as accurate. This project is only a showcase of Data Analysis and basic Machine Learning prediction knowledge.
 
 ## Introduction
 The analysis involves two main datasets:
