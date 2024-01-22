@@ -63,11 +63,3 @@ This project can conclude that the Philippine Inflation Rate is generally fickle
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Conclusion
-
-This project can conclude that the Philippine Inflation Rate is generally fickle and with the prediction using Machine Learning; prediction data can be improved using a larger dataset. Continously, the prediction proves that the next few years of inflation for the Philippines will be consistent with the last 5 years with a slow and inclined rate.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
