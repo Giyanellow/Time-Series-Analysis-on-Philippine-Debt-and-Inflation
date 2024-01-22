@@ -55,6 +55,4 @@ This project can conclude that the Philippine Inflation Rate is generally fickle
 
 ## License
 
-## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
